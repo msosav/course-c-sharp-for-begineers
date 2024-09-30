@@ -21,5 +21,5 @@ dotnet new gitignore
 dotnet run
 ```
 
-> [!> [!NOTE]
+> [!NOTE]
 > This will create a new console application called `HelloWorld`, navigate to the directory, create a `.gitignore` file, and run the application.]
